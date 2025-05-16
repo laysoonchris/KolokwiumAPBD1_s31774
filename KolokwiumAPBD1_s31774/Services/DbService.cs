@@ -8,7 +8,7 @@ namespace KolokwiumAPBD1_s31774.Services;
 
 public class DbService : IDbService
 {
-    private readonly string _connectionString;
+    private readonly string _connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Integrated Security=True;";
 
     public DbService(IConfiguration configuration)
     {
