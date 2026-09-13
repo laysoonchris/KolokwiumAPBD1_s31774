@@ -1,6 +1,6 @@
-# KolokwiumAPBD1_s31774 - System wizyt lekarskich
+System wizyt lekarskich
 
-Kolokwium (egzamin śródsemestralny) z przedmiotu **APBD** - ASP.NET Core Web API do zarządzania wizytami lekarskimi (`AppointmentController`), z własnymi wyjątkami i warstwą serwisową.
+Projekt realizowany w ramach kolokwium (egzamin śródsemestralny) z przedmiotu **APBD** - ASP.NET Core Web API do zarządzania wizytami lekarskimi (`AppointmentController`), z własnymi wyjątkami i warstwą serwisową.
 
 **Technologie:** C#, ASP.NET Core Web API
 
